@@ -1,6 +1,6 @@
 # 海绵宝宝的自我介绍
 
-<img src="C:\Users\cc\.ssh\one.jpg" width="200" alt="海绵宝宝形象">
+<img src="[C:\Users\cc\.ssh\one.jpg](https://github.com/zswh112010/numpy/blob/master/photo/one.png)" width="200" alt="海绵宝宝形象">
 
 大家好，我是**海绵宝宝**，我的身份是*海底汉堡厨师*。以下是我的自我介绍：
 
