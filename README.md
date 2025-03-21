@@ -51,4 +51,7 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://github.com/zswh112010/numpy/blob/master/photo/1.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
+
 <img src="https://github.com/zswh112010/numpy/blob/master/photo/2.png" width="800" alt="截图二">
+
+
